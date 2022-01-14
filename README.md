@@ -22,11 +22,30 @@ BOOK YOUR FREE 30 MINUTE MEETING WITH ME!
 
 
 
+```javascript
+const anan = {
+  pronouns: "he" | "his",
+  code: [C#, Python, Kotlin, Dart, Javascript, PHP],
+  tools: [React, Laravel, Flutter, AWS, Unity],
+  services: ["AR/VR", "Website", "App", "ML"],
+  startups: {
+              1: "Pink Decoder",
+              2: "TryOnBooth",
+              3: "Digital Manush"
+  },
+  age: currentYear - 2002
+}
+```
 
 
-| Facebook  | Linkedin  | Codeforces |
-| ------------- |:-------------:|-----:|
-| [`follow me`](https://www.facebook.com/khandoker.anan/)  | [`add connection`](https://www.linkedin.com/in/khandokeranan/) |  [`add to friends`](https://codeforces.com/profile/anwholesquare) |
+
+| Facebook  | Linkedin  | Codeforces | Devpost |
+| ------------- |:-------------:|:-------------:|-----:|
+| [`follow me`](https://www.facebook.com/khandoker.anan/)  | [`add connection`](https://www.linkedin.com/in/khandokeranan/) |  [`add to friends`](https://codeforces.com/profile/anwholesquare) | [`follow me`](https://devpost.com/khandokeranan)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
 
 
